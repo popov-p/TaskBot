@@ -19,4 +19,5 @@ class EditState(StatesGroup):
     date = State()
     time = State()
     attachments = State()
+    periodic = State()
 
